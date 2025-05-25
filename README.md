@@ -86,22 +86,16 @@ Olá! Sejam bem vindos. Me chamo Luana e atualmente sou uma aluna do primeiro se
 <br/>
 
 ### 📊 Estatísticas
-
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luanaferrazads&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="left">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaferrazads&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
+<div>
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=luanaferrazads&show_icons=true&theme=tokyonight" />
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaferrazads&layout=compact&theme=tokyonight" />
+<div>
 
+<br>
 </p>
+
+
 
