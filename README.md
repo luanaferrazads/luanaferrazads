@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Luana Ferraz
 
-Olá! Sejam bem vindos. Me chamo Luana e atualmente sou uma aluna do primeiro semestre do curso de Análise e Desenvolvimento de Sistemas no IFBA.
+Olá! Sejam bem vindos. Me chamo Luana e atualmente sou uma aluna do segundo semestre do curso de Análise e Desenvolvimento de Sistemas no IFBA.
 - 📫 Contate-me: luanaferrazads@outlook.com
 - 😄 Pronouns: ela/dela
 
